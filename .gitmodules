@@ -1,3 +1,6 @@
 [submodule "exams"]
 	path = exams
 	url = git@github.com:xxMudCloudxx/LIM-Exercise.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = git@github.com:LearningInfiniTensor/learning-cxx.git
